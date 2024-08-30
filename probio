@@ -1,4 +1,4 @@
-++create new repository on the command line with below lines ++
+<!-- create new repository on the command line with below lines -->
 echo "# probio" >> README.md
 git init
 git add README.md
@@ -346,4 +346,6 @@ git push -u origin main
 
     return `${year}/${month}/${day}`;
   }
-</script></body></html>
+</script>
+</body>
+</html>
